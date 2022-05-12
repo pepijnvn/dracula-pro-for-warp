@@ -3,7 +3,7 @@
 
 A Dracula Pro theme for [Warp](https://www.warp.dev/).
 
-<img width="1121" alt="screenshot" src="https://user-images.githubusercontent.com/29859747/168066391-3af9ba44-d979-449a-b59b-0d3afffec4ab.png">
+<img width="1025" alt="screenshot" src="https://user-images.githubusercontent.com/29859747/168069076-bd0a3ada-91b4-482d-9239-f1b1632d0cc7.png">
 
 
 ## Install

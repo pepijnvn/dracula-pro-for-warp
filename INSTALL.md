@@ -3,7 +3,7 @@
 
 ### Download using Git
 
-Are you a Git user,? Download the theme and keep up to date by cloning the repo:
+Are you a Git user? Download the theme and keep up to date by cloning the repo:
 
 ```
 git clone https://github.com/pepijnvn/dracula-pro-for-warp.git
@@ -24,7 +24,7 @@ mkdir -p ~/.warp/themes/
 ```
 
 
-2. Copy the unzipped theme from it's location to your Warp config directory
+2. Copy the unzipped theme from it's location to your Warp config directory:
 
 ```
 cp ~/desktop/dracula_pro.yaml ~/.warp/themes/

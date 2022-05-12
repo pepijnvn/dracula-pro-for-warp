@@ -1,9 +1,8 @@
-# [Warp](https://www.warp.dev/)
+## Dracula Pro for [Warp](https://www.warp.dev/)
 
-## Install using Git
+### Install using Git
 
-If you are a Git user, you can install the theme and keep up to date by cloning the repo
-
+Are you a Git user,? Install this theme and keep up to date by cloning the repo:
 ```
 git clone https://github.com/pepijnvn/dracula-pro-for-warp.git
 ```

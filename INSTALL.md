@@ -3,7 +3,7 @@
 
 ### Download using Git
 
-Are you a Git user,? Download this theme and keep up to date by cloning the repo:
+Are you a Git user,? Download the theme and keep up to date by cloning the repo:
 
 ```
 git clone https://github.com/pepijnvn/dracula-pro-for-warp.git
@@ -23,10 +23,12 @@ Otherwise download [here](https://github.com/pepijnvn/dracula-pro-for-warp/archi
 mkdir -p ~/.warp/themes/
 ```
 
+
 2. Copy the unzipped theme from it's location to your Warp config directory
 
 ```
 cp ~/desktop/dracula_pro.yaml ~/.warp/themes/
 ```
 
-3. Select the theme under Appearance in Warp's Settings
+
+3. Select the theme under Appearance in Warp's Settings and enjoy!

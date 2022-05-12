@@ -1,7 +1,7 @@
-## Dracula Pro for [Warp](https://www.warp.dev/)
+# Dracula Pro for [Warp](https://www.warp.dev/)
 
 
-### Download using Git
+## Download using Git
 
 Are you a Git user? Download the theme and keep up to date by cloning the repo:
 
@@ -10,12 +10,12 @@ git clone https://github.com/pepijnvn/dracula-pro-for-warp.git
 ```
 
 
-### Download manually
+## Download manually
 
 Otherwise download [here](https://github.com/pepijnvn/dracula-pro-for-warp/archive/master.zip) and unzip.
 
 
-### Install
+## Install
 
 1. Create a config directory in your home directory:
 
